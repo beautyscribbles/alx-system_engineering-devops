@@ -8,7 +8,7 @@
 * How to use the cut command
 * What are files and other comparison operators, and how to use them
 
-# man or help:
+# Man or Help:
 
 * env
 * cut
